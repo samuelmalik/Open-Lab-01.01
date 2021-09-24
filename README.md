@@ -1,4 +1,4 @@
-# Open-Lab-01.01 (2 XP)
+# Open-Lab-01.01 (3 XP)
 Parse input string to number and check if it's less than 10.
 
 1. Fork this repository to your GitHub account.
